@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: kaf
+testFramework: spock
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, data, data-jpa, gradle, h2, hibernate-jpa, hibernate-validator, jdbc-hikari, kafka, kafka-streams, kotlin, kotlin-extension-functions, logback, picocli, picocli-kotlin-application, picocli-spock, readme, shade, spock, spring, spring-boot, spring-data-jpa, yaml]
